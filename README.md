@@ -1,4 +1,4 @@
-# makeathon
+# 보행유형 맞춤형 이동시간 예측서비스
 [실행 방법]
 1. Python 3.9 이상 설치
 2. 터미널(cmd 또는 PowerShell)에서 app.py가 있는 폴더로 이동
