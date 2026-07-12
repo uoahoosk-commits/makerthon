@@ -8,6 +8,9 @@
 4. 실행
    python -m streamlit run app.py
 5. 브라우저에서 자동으로 열리는 로컬 주소(예: http://localhost:8501)에서 확인
+6. py -m pip install streamlit pandas requests
+py -m streamlit run app.py
+
 
 [카카오 REST API 키 발급 방법 - 실제 위치 검색 기능을 쓰려면 필요]
 1. https://developers.kakao.com 접속 후 로그인 (카카오 계정, 무료)
